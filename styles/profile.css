@@ -78,3 +78,18 @@
     gap: 60px;
 
 }
+
+.quem {
+
+    margin: auto;
+    padding-top: 80px;
+    width: 100%;
+    max-width: 1160px;
+    justify-content: center;
+    align-items: center;
+    font-family: Handjet;
+    font-size: 96px;
+    font-weight: 300;
+    text-align: center;
+
+}
