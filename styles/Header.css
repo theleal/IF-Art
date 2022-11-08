@@ -1,0 +1,26 @@
+.header {
+  background: rgb(0, 0, 0);
+}
+
+.header-container {
+  margin: 0 auto;
+  padding: 30px 30px;
+  width: 1160px;
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  width: 85px;
+  height: 37px;
+}
+
+.menu-hamb {
+  right: 10px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}

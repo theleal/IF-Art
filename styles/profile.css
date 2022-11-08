@@ -1,0 +1,80 @@
+.conteudo-3 {
+    background: #070707;
+    padding-bottom: 200px;
+}
+
+
+.profile {
+
+    padding-top: 80px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1160px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 75px;
+}
+
+.nome {
+
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 80px;
+    color: white;
+
+}
+
+.infos_usuario {
+    margin-left: 80px;
+}
+
+.infosAd {
+    font-family: Handjet, sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    margin-top: 32px;
+    margin-bottom: 30px;
+
+}
+
+.infosAd p {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 200;
+    color: #9C9C9C;
+}
+
+.separador {
+
+    margin-top: 130px;
+    margin-bottom: 75px;
+    width: max-content;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.separador p {
+    font-family: Handjet;
+    font-size: 32px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+#filtro {
+    margin-left: 32px;
+}
+
+
+
+.content_profile {
+
+    justify-content: center;
+    margin: auto;
+    max-width: 1160px;
+    width: 100%;
+    display: flex;
+    gap: 60px;
+
+}

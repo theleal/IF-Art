@@ -1,0 +1,86 @@
+.conteudo-2 {
+
+    background: #070707;
+    padding-bottom: 265px;
+    padding-top: 60px;
+    display: flex;
+}
+
+
+.div-catalogo {
+
+    width: 100%;
+    max-width: 1160px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#subtitulo {
+    font-family: Handjet;
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 80px;
+
+}
+
+.obra {
+    display: flex;
+}
+
+.info_obras {
+    margin-left: 60px;
+}
+
+.titulo_obra {
+    font-family: Poppins;
+    font-size: 96px;
+    font-weight: bold;
+}
+
+.description {
+    font-family: Handjet, sans-serif;
+    font-size: 48px;
+    font-weight: regular;
+}
+
+.description p {
+
+
+    margin-top: 8px;
+    width: 548px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 300;
+    color: #9C9C9C;
+
+}
+
+.foto img {
+    width: 565px;
+    height: 762px;
+}
+
+.infos_autor {
+
+    padding-top: 75px;
+    flex-wrap: wrap;
+    display: flex;
+    width: 250px;
+    font-family: Handjet;
+    font-size: 40px;
+    color: white;
+    justify-content: space-between;
+
+}
+
+.infos_autor p {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 200;
+    color: #9C9C9C;
+}
+
+.insta {
+    margin-top: 50px;
+}

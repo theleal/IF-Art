@@ -1,0 +1,27 @@
+.rodape {
+  background: black;
+}
+
+.conteudos_rodape {
+  padding-top: 72px;
+  padding-bottom: 80px;
+  display: flex;
+  width: 1160px;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.titulo_footer {
+  font-family: Poppins;
+  font-size: 24px;
+  color: white;
+}
+
+.infos_contato {
+  margin-top: 24px;
+  font-family: Poppins;
+  font-size: 18px;
+  color: #b3b3b3;
+  line-height: 36px;
+}

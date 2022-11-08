@@ -1,0 +1,69 @@
+.conteudo {
+  background: #070707;
+  padding-bottom: 265px;
+}
+
+.textos-home {
+  width: 1160px;
+  margin: 0 auto;
+  padding-top: 60px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.titulo {
+  font-family: Handjet, sans-serif;
+  font-size: 80px;
+  color: white;
+}
+
+.filtro {
+  font-family: Handjet, sans-serif;
+  font-size: 32px;
+  color: white;
+}
+
+.items {
+  justify-content: center;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 60px;
+
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.fotos {
+  margin-top: 60px;
+}
+
+.infos {
+  margin-top: 10px;
+  width: 320px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+#titulo_foto {
+  font-size: 24px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+
+#autor_foto {
+  font-size: 12px;
+  font-family: Poppins;
+  font-weight: 300;
+}
+
+#data_foto {
+  margin-top: 5px;
+  font-size: 12px;
+  font-family: Poppins;
+  font-weight: 300;
+}
